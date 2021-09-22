@@ -1,3 +1,3 @@
 #  React Shop Porfolio Progect
 
-[Demo](https://github.com/UladzimirKhilko/react-shop).
+[Demo](htpps://UladzimirKhilko.git.hub.io?react-shop).
