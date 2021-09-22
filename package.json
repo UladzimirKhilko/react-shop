@@ -1,6 +1,6 @@
 {
   "name": "shop-project",
-  "home": "htpps://UladzimirKhilko.git.hub.io?react-shop",
+  "homepage": "htpps://UladzimirKhilko.git.hub.io?react-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
